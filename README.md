@@ -1,3 +1,3 @@
 # dcaichat
-簡單的dc串ai(命令部分請自己串(偷懶超人)):D
-痾不要拿去做奇怪的事情
+hahaaichat
+
